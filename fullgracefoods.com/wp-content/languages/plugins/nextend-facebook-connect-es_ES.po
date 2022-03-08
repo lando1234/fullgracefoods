@@ -1,0 +1,1772 @@
+# Translation of Plugins - Nextend Social Login and Register (Facebook, Google, Twitter) - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Nextend Social Login and Register (Facebook, Google, Twitter) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-03 21:01:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Nextend Social Login and Register (Facebook, Google, Twitter) - Stable (latest release)\n"
+
+#: includes/user.php:116
+msgid "User registration is currently not allowed."
+msgstr "Actualmente no está permitido el registro de usuarios."
+
+#: admin/templates/settings/buddypress.php:73
+msgid "Some themes that use BuddyPress, display the social buttons twice in the same login form. This option can disable the one for: <b>bp_sidebar_login_form action</b>.  "
+msgstr "Algunos temas que utilizan BuddyPress muestran los botones sociales dos veces en el mismo formulario de acceso. Esta opción puede desactivarlo mediante: <b>bp_sidebar_login_form action</b>.  "
+
+#: admin/templates/settings/buddypress.php:64
+msgid "Sidebar Login form"
+msgstr "Formulario de acceso de la barra lateral"
+
+#: admin/templates/pro-addon.php:123
+msgid "Update Pro Addon"
+msgstr "Actualiza la extensión Pro"
+
+#: admin/templates/pro-addon.php:119
+msgid "%1$s and %2$s are not compatible. Please update %2$s to version %3$s or newer."
+msgstr "%1$s y %2$s no son compatibles. Por favor, actualiza %2$s  a la versión %3$s o más reciente."
+
+#: admin/templates/pro-addon.php:118
+msgid "Not compatible!"
+msgstr "¡No compatible!"
+
+#: admin/templates/settings/buddypress.php:93
+msgid "Login button style"
+msgstr "Estilo del botón de acceso."
+
+#: admin/templates/settings/general-pro.php:79
+msgid "Disable Admin bar for roles"
+msgstr "Desactivar la barra de administración para los perfiles"
+
+#: admin/templates-provider/usage.php:14
+msgid "See the full list of shortcode parameters."
+msgstr "Ver la lista completa de parámetros del shortcode."
+
+#: admin/templates-provider/usage.php:13
+msgid "The shortcodes are only rendered for users who haven't logged in yet!"
+msgstr "¡Los shortcodes sólo los visualizan los usuarios que aún no se han conectado!"
+
+#: admin/templates-provider/usage.php:12
+msgid "Important!"
+msgstr "¡Importante!"
+
+#: providers/facebook/admin/getting-started.php:25
+msgid "Fill \"Display Name\" and \"Contact Email\". The specified \"Display Name\" will appear on your %s!"
+msgstr "Rellena «Mostrar nombre» y «Correo electrónico de contacto». ¡El «Nombre visible» especificado aparecerá en tu %s!"
+
+#: admin/templates/settings/woocommerce.php:217
+msgid "No Connect buttons in account details form"
+msgstr "No hay botones que conecten en el formulario de detalles de la cuenta"
+
+#: admin/templates/settings/general.php:213
+msgid "Enabling this option can speed up loading images in Media Library - Grid view!"
+msgstr "Activando esta opción puedes acelerar la carga de imágenes en la biblioteca de medios - ¡vista de cuadrícula!"
+
+#: admin/templates/settings/general.php:203
+msgid "Display avatars in \"All media items\""
+msgstr "Mostrar avatares en «Todos los archivos de medios»"
+
+#: admin/templates/settings/general.php:82
+msgid "%1$s First create a new page then select this page above."
+msgstr "%1$s Primero crea una nueva página y luego selecciona esta página."
+
+#: admin/templates/settings/general.php:81
+msgid "You can use this setting when wp-login.php page is not available to handle the OAuth flow."
+msgstr "Puede utilizar este ajuste cuando la página wp-login.php no está disponible para manejar el flujo de OAuth."
+
+#: admin/templates/settings/general.php:70
+#: admin/templates/settings/general.php:83
+msgid "Important:"
+msgstr "Importante:"
+
+#: admin/templates/settings/general.php:70
+#: admin/templates/settings/general.php:83
+msgid "%1$s You won't be able to reach the selected page unless a social login/registration happens."
+msgstr "%1$s No podrás acceder a la página seleccionada a menos que se produzca un inicio de sesión/registro social."
+
+#: admin/templates/settings/general.php:69
+#: admin/templates/settings/general.php:82
+msgid "Usage:"
+msgstr "Uso:"
+
+#: admin/templates/settings/general.php:69
+msgid "%2$s First create a new page and insert the following shortcode: %1$s then select this page above"
+msgstr "%2$s Primero crea una nueva página e inserta el siguiente código abreviado: %1$s y luego selecciona esta página de arriba"
+
+#: admin/templates/settings/general.php:68
+msgid "This setting is used when you request additional data from the users (such as email address) and to display the Terms and conditions."
+msgstr "Este ajuste se utiliza cuando solicitas datos adicionales de los usuarios (como la dirección de correo electrónico) y para mostrar los términos y condiciones."
+
+#: admin/templates/settings/general-pro.php:73
+msgid "Allow Social account unlink"
+msgstr "Permitir desvincular la cuenta social"
+
+#: admin/templates/settings/general-pro.php:67
+msgid "Unlink"
+msgstr "Quitar enlace"
+
+#: admin/templates/settings/login-form-pro.php:133
+msgid "Embedded login form button alignment"
+msgstr "Alineamiento de botón de acceso incrustado"
+
+#: admin/templates/settings/userpro.php:147
+#: admin/templates/settings/woocommerce.php:233
+#: admin/templates/settings/buddypress.php:150
+#: admin/templates/settings/comment.php:53
+#: admin/templates/settings/ultimate-member.php:166
+#: admin/templates/settings/memberpress.php:151
+#: admin/templates/settings/login-form.php:53
+msgid "Button alignment"
+msgstr "Alineación de botones"
+
+#: providers/facebook/admin/getting-started.php:37
+msgid "By clicking \"Confirm\", the Status of your App will go Live."
+msgstr "Al hacer clic en «Confirmar», el estado de tu aplicación se activará."
+
+#: providers/facebook/admin/getting-started.php:36
+msgid "Your application is currently private ( Status: In Development ), which means that only you can log in with it. In the top bar click on the \"OFF\" switcher and select a category for your App."
+msgstr "Tu aplicación es actualmente privada (Estado: En desarrollo), lo que significa que sólo tú puedes iniciar sesión en ella. En la barra superior, haz clic en el pulsador \"OFF\" y selecciona una categoría para tu aplicación."
+
+#: providers/facebook/admin/getting-started.php:34
+msgid "In the top of the left sidebar, click on \"Settings\" and select \"Basic\""
+msgstr "En la parte superior de la barra lateral izquierda, haz clic en «Ajustes» y selecciona «Básico»."
+
+#: providers/facebook/admin/getting-started.php:31
+msgid "In the left sidebar under the Products section, click on \"Facebook Login\" and select Settings"
+msgstr "En la barra lateral izquierda, en la sección «Productos», haz clic en «Inicio de sesión de Facebook» y selecciona «Ajustes»"
+
+#: providers/facebook/admin/getting-started.php:27
+msgid "Select \"Integrate Facebook Login\" at the Select a Scenario page, then click Confirm."
+msgstr "Selecciona «Integrar el inicio de sesión de Facebook» en la página «Seleccionar un escenario» y, a continuación, haz clic en «Confirmar»."
+
+#: admin/templates/settings/userpro.php:159
+#: admin/templates/settings/woocommerce.php:245
+#: admin/templates/settings/login-form-pro.php:145
+#: admin/templates/settings/buddypress.php:162
+#: admin/templates/settings/comment.php:65
+#: admin/templates/settings/ultimate-member.php:178
+#: admin/templates/settings/memberpress.php:163
+#: admin/templates/settings/login-form.php:65 widget.php:67
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/templates/settings/userpro.php:155
+#: admin/templates/settings/woocommerce.php:241
+#: admin/templates/settings/login-form-pro.php:141
+#: admin/templates/settings/buddypress.php:158
+#: admin/templates/settings/comment.php:61
+#: admin/templates/settings/ultimate-member.php:174
+#: admin/templates/settings/memberpress.php:159
+#: admin/templates/settings/login-form.php:61 widget.php:62
+msgid "Center"
+msgstr "Centrar"
+
+#: admin/templates/settings/userpro.php:152
+#: admin/templates/settings/woocommerce.php:238
+#: admin/templates/settings/login-form-pro.php:138
+#: admin/templates/settings/buddypress.php:155
+#: admin/templates/settings/comment.php:58
+#: admin/templates/settings/ultimate-member.php:171
+#: admin/templates/settings/memberpress.php:156
+#: admin/templates/settings/login-form.php:58 widget.php:57
+msgid "Left"
+msgstr "Izquierda"
+
+#: widget.php:53
+msgid "Button align:"
+msgstr "Alinear botón:"
+
+#: includes/provider.php:625
+msgid "Unlink is not allowed!"
+msgstr "¡Quitar el enlace no está permitido!"
+
+#: providers/google/admin/getting-started.php:27
+msgid "Click the Create credentials button and select \"OAuth client ID\" from the dropdown."
+msgstr "Haz clic en el botón «Crear credenciales» y selecciona «OAuth client ID» en el menú desplegable."
+
+#: providers/google/admin/getting-started.php:26
+msgid "Press \"Save\" and you will be redirected back to Credentials screen."
+msgstr "Presiona «Guardar» y serás redirigido a la pantalla «Credenciales»."
+
+#: providers/google/admin/getting-started.php:25
+msgid "Fill the \"Authorized domains\" field with your domain name probably: <b>%s</b> without subdomains!"
+msgstr "Rellena el campo «Dominios autorizados» con tu nombre de dominio, probablemente: <b>%s</b> ¡sin subdominios!"
+
+#: providers/google/admin/getting-started.php:24
+msgid "Enter a name for your App under the \"Application name\" field, which will appear as the name of the app asking for consent."
+msgstr "Introduce un nombre para uu aplicación en el campo «Nombre de aplicación», que aparecerá como el nombre de la aplicación que solicita el consentimiento."
+
+#: providers/google/admin/getting-started.php:23
+msgid "Select the OAuth consent screen!"
+msgstr "¡Elige la pantalla de consentimiento de OAuth!"
+
+#: admin/templates/pro-addon.php:37 admin/templates/pro-addon.php:142
+msgid "Deactivate Pro Addon"
+msgstr "Desactiva la extensión Pro"
+
+#: admin/admin.php:619
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/admin.php:613
+msgid "Activate your Pro Addon"
+msgstr "Activa tu extensión Pro "
+
+#: admin/admin.php:252
+msgid "Deactivate completed."
+msgstr "Desactivar completado."
+
+#: providers/twitter/admin/settings.php:38
+msgid "API secret key"
+msgstr "Clave API secreta "
+
+#: providers/twitter/admin/settings.php:27
+msgid "API Key"
+msgstr "Clave de API"
+
+#: providers/twitter/admin/getting-started.php:28
+msgid "Go to the Keys and tokens tab and find the API key and API secret key"
+msgstr "Ve a la pestaña «Claves y tokens» y busca la clave de API y la clave secreta de API"
+
+#: providers/twitter/admin/getting-started.php:27
+msgid "Tick the Request email address from users under the Additional permissions section and click Save."
+msgstr "Marca la petición de correo electrónico de los usuarios en la sección permisos adicionales y haz clic en guardar."
+
+#: providers/twitter/admin/getting-started.php:26
+msgid "Select the Permissions tab and click Edit."
+msgstr "Selecciona la pestaña de permisos y haz clic en editar."
+
+#: providers/twitter/admin/getting-started.php:25
+msgid "Read the Developer Terms and click the Create button again!"
+msgstr "¡Lee los términos del desarrollador y haz clic en el botón crear de nuevo!"
+
+#: providers/twitter/admin/getting-started.php:23
+msgid "Fill the “Terms of Service URL\", \"Privacy policy URL\" and \"Tell us how this app will be used” fields!"
+msgstr "Rellena los campos «URL de condiciones del servicio», «URL política de privacidad» y «Díganos cómo se utilizará esta aplicación»"
+
+#: providers/twitter/admin/getting-started.php:21
+msgid "Tick the checkbox next to Enable Sign in with Twitter!"
+msgstr "¡Marca la siguiente casilla de verificación para activar el inicio de sesión con Twitter!"
+
+#: providers/twitter/admin/getting-started.php:19
+msgid "Once your developer account is complete, navigate back to %s if you aren't already there!"
+msgstr "Cuando hayas completado tu cuenta de desarrollo, ¡vuelve a %s si aún no estás ahí!"
+
+#: providers/twitter/admin/getting-started.php:18
+msgid "If you don't have a developer account yet, please apply one by filling all the required details! This is required for the next steps!"
+msgstr "Si aún no tienes una cuenta de desarrollador, por favor, solicita una rellenando todos los datos necesarios ¡Esto es necesario para los siguientes pasos!"
+
+#: providers/twitter/admin/getting-started.php:17
+msgid "Log in with your %s credentials if you are not logged in yet"
+msgstr "Accede con tus credenciales de %s si todavía no estás conectado"
+
+#: providers/twitter/admin/fix-redirect-uri.php:11
+msgid "The Edit button can be found on the App details tab. Click on it and select Edit details"
+msgstr "El botón de editar se puede encontrar en la pestaña de detalles de la app. Haz clic en él y selecciona editar detalles"
+
+#: providers/twitter/admin/fix-redirect-uri.php:10
+msgid "Find your App and click on the Details button"
+msgstr "Encuentra tu aplicación y haz clic en el botón de detalles"
+
+#: providers/google/admin/getting-started.php:19
+#: providers/twitter/admin/getting-started.php:24
+msgid "Click the Create button."
+msgstr "Haz clic en el botón «Crear»."
+
+#: providers/google/admin/getting-started.php:18
+msgid "If you don't have a project yet, you'll need to create one. You can do this by clicking on the blue \"Create project\" button on the right side!  ( If you already have a project, click on the name of your project in the dashboard instead, which will bring up a modal and click New Project. )"
+msgstr "Si aún no tienes un proyecto, tendrás que crear uno. Para ello, haz clic en el botón azul «Crear proyecto» que se encuentra a la derecha ( Si ya tienes un proyecto, haz clic en el nombre de tu proyecto en el panel de control, que te mostrará una modal y haz clic en «Nuevo proyecto». )"
+
+#: providers/google/admin/buttons.php:20
+msgid "Dark"
+msgstr "Oscuro"
+
+#: providers/google/admin/buttons.php:14
+msgid "Light"
+msgstr "Claro"
+
+#: providers/google/admin/buttons.php:8
+msgid "Uniform"
+msgstr "Uniforme"
+
+#: providers/google/admin/buttons.php:2
+msgid "Button skin"
+msgstr "Piel de botón"
+
+#: admin/templates/settings/general.php:198
+msgid "Please visit to our %1$s to check what plugins are supported!"
+msgstr "¡Visita nuestro %1$s para comprobar qué plugins son compatibles!"
+
+#: admin/templates/settings/general.php:188
+msgid "Support login restrictions"
+msgstr "Permite restricciones de acceso"
+
+#: providers/twitter/admin/settings.php:71
+msgid "Original"
+msgstr "Original"
+
+#: providers/twitter/admin/settings.php:57
+msgid "Profile image size"
+msgstr "Tamaño de la imagen del perfil"
+
+#: providers/google/google.php:275
+msgid "Required API: %1$s"
+msgstr "API oblligatoria: %1$s"
+
+#: admin/templates/test-connection.php:50
+msgid "Please contact with your hosting provider to resolve the network issue between your server and the provider."
+msgstr "Por favor, contacta con tu proveedor de alojamiento web para resolver el problema de red entre tu servidor y el proveedor."
+
+#: admin/templates/test-connection.php:47
+msgid "Network connection failed: %1$s"
+msgstr "Falló la conexión de red: %1$s"
+
+#: admin/templates/test-connection.php:41
+msgid "Network connection successful: %1$s"
+msgstr "Conexión de red correcta: %1$s"
+
+#: admin/templates/settings/ultimate-member.php:89
+msgid "No Connect button in Register form"
+msgstr "Botón de no conectar en el formulario de registro"
+
+#: admin/templates/settings/ultimate-member.php:23
+msgid "No Connect button in Login form"
+msgstr "Botón de no conectar en el formulario de acceso"
+
+#: admin/templates/settings/memberpress.php:103
+msgid "Sign Up layout"
+msgstr "Plantilla de registro"
+
+#: admin/templates/settings/memberpress.php:84
+msgid "Sign Up form button style"
+msgstr "Estilo de botón del formulario de registro"
+
+#: admin/templates/settings/memberpress.php:74
+msgid "No Connect button in Sign Up form"
+msgstr "Botón de no conectar en el formulario de registro"
+
+#: admin/templates/settings/memberpress.php:69
+msgid "Sign Up form"
+msgstr "Formulario de registro"
+
+#: admin/templates/settings/general.php:183
+msgid "If you want to blacklist redirect url params. One pattern per line."
+msgstr "Si quieres poner en la lista negra parametros de redirección de URL. Un patrón por línea."
+
+#: admin/templates/settings/general.php:177
+msgid "Blacklisted redirects"
+msgstr "Redirecciones en lista negra"
+
+#: admin/templates/settings/general.php:95
+msgid "Disable external redirects"
+msgstr "Desactivar redirecciones externas"
+
+#: admin/templates/settings/general.php:89
+msgid "Prevent external redirect overrides"
+msgstr "Evitar las anulaciones de redireccionamiento externo"
+
+#: admin/templates/providers.php:214
+msgid "The entered email address is invalid!"
+msgstr "¡La dirección de correo electrónico introducida no es válida!"
+
+#: admin/templates/providers.php:207
+msgid "We'll be bringing you all the latest news and updates about Social Login - right to your inbox."
+msgstr "Te traeremos todas las últimas noticias y actualizaciones sobre Social Login - directamente a tu bandeja de entrada."
+
+#: admin/templates/providers.php:207
+msgid "Successfully subscribed!"
+msgstr "¡Suscrito correctamente!"
+
+#: admin/templates/providers.php:120
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: admin/templates/providers.php:116
+msgid "Enter your email address"
+msgstr "Introduce tu dirección de correo electrónico"
+
+#: admin/templates/providers.php:115
+msgid "Receive info on the latest plugin updates and social provider related changes."
+msgstr "Recibe información sobre las últimas actualizaciones de plugins y cambios relacionados con el proveedor social."
+
+#: admin/templates/providers.php:114
+msgid "Stay Updated"
+msgstr "Manténte actualizado"
+
+#: admin/templates/debug.php:58
+msgid "Test %1$s connection"
+msgstr "Probar la conexión a %1$s"
+
+#: admin/templates/debug.php:48
+msgid "You don't have cURL support, please enable it in php.ini!"
+msgstr "No tienes compatibilidad con cURL. ¡Por favor, habilítalo en php.ini!"
+
+#: admin/templates/debug.php:41
+msgid "Test network connection with providers"
+msgstr "Probar la conexión de red con los proveedores"
+
+#: admin/admin.php:589
+msgid "Fix now"
+msgstr "Corregir ahora"
+
+#: admin/admin.php:588
+msgid "%1$s detected that %2$s installed on your site. You must set \"<b>Page for register flow</b>\" and \"<b>OAuth redirect uri proxy page</b>\" in %1$s to work properly."
+msgstr "%1$s ha detectado que %2$s está instalado en tu sitio. Debes configurar «<b>Página para el flujo de registro</b>» y «<b>Página de proxy de redirección de url para OAuth </b>» en %1$s para que funcionen correctamente."
+
+#: includes/provider.php:1048
+msgid "Profile picture"
+msgstr "Imagen de perfil"
+
+#: includes/provider.php:1032
+msgid "Identifier"
+msgstr "Identificador"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name
+#: includes/compat-wp-login.php:42
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: admin/templates-provider/settings-other.php:40
+msgid "Override global \"%1$s\""
+msgstr "Anular el «%1$s» global"
+
+#: admin/templates-provider/settings-other.php:25
+msgid "Used when username is invalid or not stored"
+msgstr "Se utiliza cuando el nombre de usuario no es válido o no está almacenado"
+
+#: admin/templates/debug.php:7 admin/templates/header.php:20
+msgid "Debug"
+msgstr "Depurar"
+
+#: admin/templates/settings/woocommerce.php:220
+#: admin/templates/settings/woocommerce.php:225
+msgid "Link buttons on"
+msgstr "Botones de enlace activados"
+
+#: admin/templates/settings/woocommerce.php:174
+msgid "Billing layout"
+msgstr "Plantilla de facturación"
+
+#: admin/templates/settings/woocommerce.php:154
+msgid "Billing form"
+msgstr "Formulario de facturación"
+
+#: admin/templates/settings/woocommerce.php:46
+#: admin/templates/settings/woocommerce.php:51
+#: admin/templates/settings/woocommerce.php:104
+#: admin/templates/settings/woocommerce.php:109
+#: admin/templates/settings/woocommerce.php:162
+#: admin/templates/settings/woocommerce.php:167
+#: admin/templates/settings/ultimate-member.php:26
+#: admin/templates/settings/ultimate-member.php:92
+#: admin/templates/settings/memberpress.php:77
+msgid "Connect button on"
+msgstr "Botón de conexión activado"
+
+#: admin/templates/settings/privacy.php:102 includes/provider.php:1040
+msgid "Access token"
+msgstr "Token de acceso"
+
+#: admin/templates/settings/privacy.php:81
+msgid "When not enabled, email will be empty."
+msgstr "Cuando no esté activo, el correo electrónico estará vacío."
+
+#: admin/templates/settings/privacy.php:68
+msgid "When not enabled, username will be randomly generated."
+msgstr "Cuando no esté activo, el nombre de usuario será generado aleatoriamente."
+
+#: admin/templates/settings/privacy.php:65
+msgid "First and last name"
+msgstr "Nombre y apellidos"
+
+#: admin/templates/settings/privacy.php:59
+msgid "Store"
+msgstr "Tienda"
+
+#: admin/templates-provider/settings-other.php:29
+#: admin/templates-provider/settings-other.php:40
+#: admin/templates/settings/privacy.php:35
+msgid "Terms and conditions"
+msgstr "Términos y condiciones"
+
+#: admin/templates/settings/privacy.php:6 nextend-social-login.php:140
+msgid "By clicking Register, you accept our <a href=\"#privacy_policy_url\" target=\"_blank\">Privacy Policy</a>"
+msgstr "Al hacer clic en «Registro», aceptas nuestra <a href=\"#privacy_policy_url\" target=\"_blank\">Política de Privacidad</a>"
+
+#: admin/templates/settings/woocommerce.php:212
+#: admin/templates/settings/ultimate-member.php:150
+#: admin/templates/settings/memberpress.php:135
+msgid "Account details"
+msgstr "Detalles de la cuenta"
+
+#: admin/templates/settings/general.php:74
+msgid "OAuth redirect uri proxy page"
+msgstr "URI de página proxy de redirección OAuth"
+
+#: admin/templates/settings/general.php:65
+#: admin/templates/settings/general.php:78
+msgid "None"
+msgstr "Ninguno"
+
+#: admin/templates/settings/general.php:61
+msgid "Page for register flow"
+msgstr "Página de flujo de registro"
+
+#: admin/templates/settings/woocommerce.php:18
+#: admin/templates/settings/comment.php:33
+msgid "Button style"
+msgstr "Estilo de botón"
+
+#: admin/templates/settings/comment.php:18
+msgid "Login button"
+msgstr "Botón de acceso"
+
+#: admin/templates/settings/buddypress.php:44
+msgid "Register button style"
+msgstr "Estilo de botón de registro"
+
+#: admin/templates/settings/woocommerce.php:96
+#: admin/templates/settings/buddypress.php:18
+#: admin/templates/settings/ultimate-member.php:84
+msgid "Register form"
+msgstr "Formulario de registro"
+
+#: admin/templates/global-settings.php:33
+msgid "Privacy"
+msgstr "Privacidad"
+
+#: admin/admin.php:742
+msgid "Register flow page"
+msgstr "Página de flujo de registro"
+
+#: admin/admin.php:739
+msgid "OAuth proxy page"
+msgstr "Página proxy de OAuth"
+
+#: NSL/GDPR.php:53
+msgid "Does the plugin enqueue JavaScript, tracking pixels or embed iframes from a third party?"
+msgstr "¿El plugin encola JavaScript, rastrea píxeles o incrusta iframes de un tercero?"
+
+#: NSL/GDPR.php:51 NSL/GDPR.php:54
+msgid "No"
+msgstr "No"
+
+#: NSL/GDPR.php:50
+msgid "Does the plugin collect telemetry data, directly or indirectly?"
+msgstr "¿El plugin recoge datos de telemetría, directa o indirectamente?"
+
+#: NSL/GDPR.php:48
+msgid "Yes, %1$s must create a cookie for visitors who use the social login authorization flow. This cookie required for every provider to secure the communication and to redirect the user back to the last location."
+msgstr "Sí, %1$s debe crear una cookie para los visitantes que utilizan el flujo de autorización de acceso social. Esta cookie es necesaria para que cada proveedor asegure la comunicación y redirija al usuario a la última ubicación."
+
+#: NSL/GDPR.php:47
+msgid "Does the plugin store things in the browser?"
+msgstr "¿El plugin almacena cosas en el navegador?"
+
+#: NSL/GDPR.php:45
+msgid "%1$s use the personal data collected by the social providers to create account on your site when the visitor authorize it."
+msgstr "%1$s utiliza los datos personales recogidos por los proveedores sociales para crear una cuenta en tu sitio cuando el visitante lo autoriza."
+
+#: NSL/GDPR.php:44
+msgid "Does the plugin use personal data collected by others?"
+msgstr "¿El plugin utiliza datos personales recogidos por otros?"
+
+#: NSL/GDPR.php:42
+msgid "%1$s removes the collected personal data when the user deleted from WordPress."
+msgstr "%1$s elimina los datos personales recogidos cuando se elimina el usuario de WordPress."
+
+#: NSL/GDPR.php:41
+msgid "How long we retain your data"
+msgstr "Cuánto tiempo conservamos tus datos"
+
+#: NSL/GDPR.php:39
+msgid "%1$s use the access token what the social provider gave to communicate with the providers to verify account and securely access personal data."
+msgstr "%1$s usa el token de acceso que el proveedor social dio para comunicarse con los proveedores para verificar la cuenta y acceder de manera segura a los datos personales."
+
+#: NSL/GDPR.php:38
+msgid "Does the plugin share personal data with third parties"
+msgstr "¿Comparte el plugin datos personales con terceros?"
+
+#: NSL/GDPR.php:36
+msgid "%1$s stores the personal data on your site and does not share it with anyone except the access token which used for the authenticated communication with the social providers."
+msgstr "%1$s almacena los datos personales en tu sitio y no los comparte con nadie excepto con el token de acceso que se utiliza para la comunicación autenticada con los proveedores sociales."
+
+#: NSL/GDPR.php:35
+msgid "Who we share your data with"
+msgstr "Con quién compartimos tus datos"
+
+#: NSL/GDPR.php:33
+msgid "%1$s collects data when a visitor register, login or link the account with with any of the enabled social provider. It collects the following data: email address, name, social provider identifier and access token. Also it can collect profile picture and more fields with the Pro Addon's sync data feature."
+msgstr "%1$s recoge datos cuando un visitante se registra, inicia sesión o enlaza la cuenta con cualquiera de los proveedores sociales habilitados. Recoge los siguientes datos: dirección de correo electrónico, nombre, identificador del proveedor social y clave de acceso. También puede recopilar imágenes de perfil y más campos con la función de sincronización de datos del complemento Pro."
+
+#: NSL/GDPR.php:32
+msgid "What personal data we collect and why we collect it"
+msgstr "Qué datos personales recogemos y por qué los recogemos"
+
+#. translators: %s: site title
+#: includes/compat-wp-login.php:234
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; Volver a %s"
+
+#: providers/facebook/admin/settings.php:14
+#: providers/facebook/admin/getting-started.php:12
+msgid "How to get SSL for my WordPress site?"
+msgstr "¿Cómo obtengo SSL para mi sitio de WordPress?"
+
+#: providers/facebook/admin/settings.php:13
+#: providers/facebook/admin/getting-started.php:11
+msgid "%1$s allows HTTPS OAuth Redirects only. You must move your site to HTTPS in order to allow login with %1$s."
+msgstr "%1$s sólo permite redirecciones OAuth HTTPS . Debes mover tu sitio a HTTPS para permitir el acceso con %1$s."
+
+#: admin/templates/settings/userpro.php:115
+#: admin/templates/settings/woocommerce.php:116
+#: admin/templates/settings/ultimate-member.php:118
+msgid "Register layout"
+msgstr "Disposición de registro"
+
+#: admin/templates/settings/userpro.php:96
+#: admin/templates/settings/ultimate-member.php:99
+msgid "Register form button style"
+msgstr "Estilo de botón del formulario de registro"
+
+#: admin/templates/settings/userpro.php:31
+msgid "Register Form"
+msgstr "Formulario de registro"
+
+#: admin/templates/settings/general.php:140
+msgid "Fixed redirect url"
+msgstr "Correrida la redirección de url"
+
+#: admin/templates/settings/general.php:130
+#: admin/templates/settings/general.php:168
+msgid "for Register"
+msgstr "para el registro"
+
+#: admin/templates/settings/general.php:115
+#: admin/templates/settings/general.php:153
+msgid "for Login"
+msgstr "para iniciar sesión"
+
+#: admin/templates/settings/general.php:102
+msgid "Default redirect url"
+msgstr "URL de redirección predeterminada"
+
+#: widget.php:94
+msgid "Show unlink buttons"
+msgstr "Mostrar botones de desvinculación"
+
+#: widget.php:85
+msgid "Show link buttons"
+msgstr "Mostrar botones de vinculación"
+
+#. translators: %2$s: WordPress version
+#: nextend-facebook-connect.php:41
+msgid "%1$s requires WordPress version %2$s+. Because you are using an earlier version, the plugin is currently NOT ACTIVE."
+msgstr "%1$s requiere la versión de WordPress %2$s+. Debido a que estás usando una versión anterior, el plugin no esá ACTIVO."
+
+#. translators: %2$s: PHP version
+#: nextend-facebook-connect.php:34
+msgid "%1$s requires PHP version %2$s+, plugin is currently NOT ACTIVE."
+msgstr "%1$s requiere la versión %2$s+ de PHP, el plugin no está activo."
+
+#: includes/provider-admin.php:240
+msgid "Please save your changes before verifying settings."
+msgstr "Por favor, guarda los cambios antes de verificar los ajustes."
+
+#: includes/avatar.php:61
+msgid "Avatar <span class=\"count\">(%s)</span>"
+msgid_plural "Avatar <span class=\"count\">(%s)</span>"
+msgstr[0] "Avatar <span class=\"count\">(%s)</span>"
+msgstr[1] "Avatar <span class=\"count\">(%s)</span>"
+
+#: includes/avatar.php:60
+msgid "Manage Avatar"
+msgstr "Gestionar avatar"
+
+#: admin/templates/settings/privacy.php:91 includes/avatar.php:59
+msgid "Avatar"
+msgstr "Avatar"
+
+#: providers/facebook/facebook.php:246
+msgid "Required scope: %1$s"
+msgstr "Alcance requerido: %1$s"
+
+#: admin/templates-provider/sync-data.php:84
+msgid "Store in meta key"
+msgstr "Almacenar en clave meta"
+
+#: admin/templates-provider/sync-data.php:66
+msgid "Link"
+msgstr "Enlace"
+
+#: admin/templates-provider/sync-data.php:58
+msgid "Login"
+msgstr "Acceder"
+
+#: admin/templates-provider/settings-pro.php:64
+msgid "Ask Password on registration"
+msgstr "Preguntar contraseña en el registro"
+
+#: admin/templates-provider/settings-pro.php:56
+msgid "When username is empty or invalid"
+msgstr "Cuando el nombre de usuario está vacío o no es válido"
+
+#: admin/templates-provider/menu.php:21
+msgid "Sync data"
+msgstr "Sincronizar datos"
+
+#: admin/templates/settings/ultimate-member.php:155
+#: admin/templates/settings/memberpress.php:140
+msgid "No link buttons"
+msgstr "Sin botones de enlace"
+
+#: providers/google/admin/fix-redirect-uri.php:12
+#: providers/google/admin/getting-started.php:30
+msgid "Add the following URL to the \"Authorised redirect URIs\" field: <b>%s</b>"
+msgstr "Añade la siguiente URL al campo «URIs de redirección autorizadas»: <b>%s</b>"
+
+#: providers/google/admin/fix-redirect-uri.php:11
+msgid "Click on OAuth 2.0 client ID: %s"
+msgstr "Haz clic en ID de cliente OAuth 2.0: %s"
+
+#: providers/google/admin/fix-redirect-uri.php:10
+msgid "Click on the \"Credentials\" in the left hand menu"
+msgstr "Haz clic en «Credenciales» en el menú de la izquierda"
+
+#: providers/facebook/admin/fix-redirect-uri.php:11
+msgid "In the left sidebar, click on \"Facebook Login/Settings\""
+msgstr "En la barra lateral izquierda, haz clic en «Inicio de seión de Facebook/Ajustes»"
+
+#: providers/facebook/admin/fix-redirect-uri.php:10
+msgid "Click on the App with App ID: %s"
+msgstr "Haz clic en la aplicacion con el App ID: %s"
+
+#: nextend-social-login.php:1061
+msgid "Social Accounts"
+msgstr "Cuentas Sociales"
+
+#: nextend-social-login.php:53 nextend-social-login.php:60
+msgid "Update now!"
+msgstr "¡Actualiza ahora!"
+
+#: nextend-social-login.php:53 nextend-social-login.php:60
+msgid "Please update %1$s to version %2$s or newer."
+msgstr "Por favor, actualiza %1$s a la versión %2$s o más reciente."
+
+#: includes/provider-admin.php:239
+msgid "Verify Settings Again"
+msgstr "Verificar los ajustes de nuevo"
+
+#: includes/provider-admin.php:203
+msgid "Please save your changes to verify settings."
+msgstr "Por favor, guarda los cambios para verificar los ajustes."
+
+#: includes/provider-admin.php:196
+msgid "Your configuration needs to be verified"
+msgstr "Tu configuración debe ser verificada"
+
+#: includes/user.php:77
+msgid "This %s account is already linked to other user."
+msgstr "Esta cuenta de %s ya está vinculada a otro usuario."
+
+#: includes/user.php:72
+msgid "You have already linked a(n) %s account. Please unlink the current and then you can link other %s account."
+msgstr "Ya has enlazado una cuentas de %s. Por favor, desvincula la cuenta actual y luego podrás vincular otra cuenta de %s."
+
+#: admin/templates/settings/woocommerce.php:101
+msgid "No Connect button in register form"
+msgstr "Sin botón de conectar en el formulario de registro"
+
+#: admin/templates/settings/login-form.php:36
+msgid "Embedded login form"
+msgstr "Formulario de inicio de sesión integrado"
+
+#: admin/templates/settings/login-form-pro.php:102
+msgid "Embedded Login layout"
+msgstr "Disposición del formulario de inicio de sesión integrado"
+
+#: admin/templates/settings/login-form-pro.php:83
+msgid "Embedded Login form button style"
+msgstr "Estilo de botón del formulario de inicio de sesión integrado"
+
+#: admin/templates/settings/general.php:231
+msgid "Allow registration with Social login."
+msgstr "Permitir el registro con el inicio de sesión social."
+
+#: admin/templates/settings/general.php:218
+msgid "Membership"
+msgstr "Miembros"
+
+#: admin/templates/settings/general-pro.php:38
+msgid "Prefer same window"
+msgstr "Prefiero la misma ventana"
+
+#: admin/templates/settings/general-pro.php:35
+msgid "Prefer new tab"
+msgstr "Prefiero nueva pestaña"
+
+#: admin/templates/settings/general-pro.php:32
+msgid "Prefer popup"
+msgstr "Prefiero mensaje emergente"
+
+#: admin/templates/settings/general-pro.php:27
+msgid "Target window"
+msgstr "Ventana de destino"
+
+#: admin/templates/settings/buddypress.php:36
+msgid "Connect button after register"
+msgstr "Botón de conexión después del registro"
+
+#: admin/templates/settings/buddypress.php:31
+msgid "Connect button before account details"
+msgstr "Botón de conexión antes de los detalles de la cuenta"
+
+#: admin/templates/settings/buddypress.php:26
+msgid "Connect button before register"
+msgstr "Botón de conexión antes del registro"
+
+#: admin/templates/settings/buddypress.php:23
+msgid "No Connect button"
+msgstr "Sin botón de conexión"
+
+#: admin/templates/providers.php:69 includes/provider-admin.php:202
+msgid "Verify Settings"
+msgstr "Verificar ajustes"
+
+#: admin/templates/providers.php:36
+msgid "Not Verified"
+msgstr "No verificado"
+
+#: admin/templates/global-settings.php:39
+msgid "Comment"
+msgstr "Comentar"
+
+#: admin/templates/settings/userpro.php:18
+#: admin/templates/settings/login-form.php:9
+#: admin/templates/global-settings.php:35
+msgid "Login Form"
+msgstr "Formulario de acceso"
+
+#: admin/templates/global-settings.php:31
+msgid "General"
+msgstr "General"
+
+#: admin/templates/fix-redirect-uri.php:32
+msgid "Got it"
+msgstr "Entendido"
+
+#: admin/templates/fix-redirect-uri.php:13
+msgid "Every Oauth Redirect URI seems fine"
+msgstr "Todas las URIs de redirección de Oauth parecen estar bien"
+
+#: admin/templates/fix-redirect-uri.php:2
+msgid "Fix Oauth Redirect URIs"
+msgstr "Arreglar las URIs de redirección de Oauth"
+
+#: admin/admin.php:582
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: admin/admin.php:582
+msgid "Dismiss and check Pro Addon"
+msgstr "Descartar y ver el complemento Pro"
+
+#: admin/admin.php:581
+msgid "%1$s detected that %2$s installed on your site. You need the Pro Addon to display Social Login buttons in %2$s login form!"
+msgstr "%1$s detectó que %2$s está instalado en tu sitio. ¡Necesitas el complemento Pro para mostrar los botones de inicio de sesión social en el formulario de inicio de sesión de %2$s!"
+
+#: admin/admin.php:571
+msgid "Oauth Redirect URI"
+msgstr "URI de redirección de Oauth"
+
+#: admin/admin.php:571
+msgid "Fix Error"
+msgstr "Corregir error"
+
+#: admin/templates/fix-redirect-uri.php:21 admin/admin.php:570
+msgid "%s detected that your login url changed. You must update the Oauth redirect URIs in the related social applications."
+msgstr "%s ha detectado que tu url de inicio de sesión ha cambiado. Debes actualizar las URIs de redirección de Oauth en las aplicaciones sociales relacionadas."
+
+#: admin/templates-provider/settings-other.php:22
+msgid "Fallback username prefix on register"
+msgstr "Prefijo del nombre de usuario alternativo en el registro"
+
+#: admin/templates/review.php:34
+msgid "Ok, you deserve it"
+msgstr "Vale, te lo mereces"
+
+#: admin/templates/review.php:32
+msgid "If you are happy with <b>Nextend Social Login</b> and can take a minute please leave us a review. It will be a tremendous help for us!"
+msgstr "Si estás contento con <b>Nextend Social Login</b> y puedes tomarte un minuto, por favor, déjanos un comentario. ¡Será una gran ayuda para nosotros!"
+
+#: admin/templates/review.php:31
+msgid "Please Leave a Review"
+msgstr "Por favor, déjanos una reseña"
+
+#: admin/templates/review.php:19
+msgid "Loved it"
+msgstr "Me ha encantado"
+
+#: admin/templates/review.php:18
+msgid "Liked it"
+msgstr "Me gustó"
+
+#: admin/templates/review.php:17
+msgid "It was ok"
+msgstr "Estuvo bien"
+
+#: admin/templates/review.php:16
+msgid "Disliked it"
+msgstr "No me gustó"
+
+#: admin/templates/review.php:15
+msgid "Hated it"
+msgstr "Lo he odiado"
+
+#: admin/templates/review.php:14
+msgid "Rate your experience!"
+msgstr "¡Valora tu experiencia!"
+
+#: admin/templates/settings/general-pro.php:61
+msgid "User and Admin"
+msgstr "Usuario y administrador"
+
+#: admin/templates/settings/general-pro.php:58
+msgid "Admin"
+msgstr "Administrador"
+
+#: NSL/GDPR.php:97 admin/templates/settings/general-pro.php:55
+msgid "User"
+msgstr "Usuario"
+
+#: admin/templates/settings/general-pro.php:52
+msgid "Nobody"
+msgstr "Nadie"
+
+#: admin/templates/settings/general.php:223
+#: admin/templates/settings/general-pro.php:49
+msgid "WordPress default"
+msgstr "Por defecto de WordPress"
+
+#: admin/templates/settings/general-pro.php:44
+msgid "Registration notification sent to"
+msgstr "Aviso de registro enviado a"
+
+#: admin/templates/settings/userpro.php:26
+#: admin/templates/settings/userpro.php:39
+#: admin/templates/settings/buddypress.php:69
+#: admin/templates/settings/buddypress.php:85
+#: admin/templates/settings/login-form.php:17
+#: admin/templates/settings/login-form.php:30
+#: admin/templates/settings/login-form.php:47
+msgid "Hide login buttons"
+msgstr "Ocultar botones de acceso"
+
+#: admin/templates/settings/userpro.php:23
+#: admin/templates/settings/userpro.php:36
+#: admin/templates/settings/buddypress.php:72
+#: admin/templates/settings/buddypress.php:88
+#: admin/templates/settings/login-form.php:14
+#: admin/templates/settings/login-form.php:27
+#: admin/templates/settings/login-form.php:44 widget.php:76
+msgid "Show login buttons"
+msgstr "Mostrar botones de acceso"
+
+#: admin/templates/settings/woocommerce.php:38
+#: admin/templates/settings/buddypress.php:80
+#: admin/templates/settings/ultimate-member.php:18
+msgid "Login form"
+msgstr "Formulario de acceso"
+
+#: admin/admin.php:509 providers/facebook/facebook-client.php:84
+#: providers/twitter/twitter-client.php:163 includes/oauth2.php:139
+#: includes/oauth2.php:284
+msgid "Unexpected response: %s"
+msgstr "Respuesta inesperada: %s"
+
+#. Author of the plugin
+msgid "Nextendweb"
+msgstr "Nextendweb"
+
+#. Description of the plugin
+msgid "Nextend Social Login displays social login buttons for Facebook, Google and Twitter."
+msgstr "Nextend Social Login muestra los botones de acceso de Facebook, Google y Twitter."
+
+#. Plugin URI of the plugin
+msgid "https://nextendweb.com/"
+msgstr "https://nextendweb.com/"
+
+#. Plugin Name of the plugin
+msgid "Nextend Social Login"
+msgstr "Nextend Social Login"
+
+#: widget.php:38
+msgid "Button style:"
+msgstr "Estilo de botón:"
+
+#: widget.php:30
+msgid "Title:"
+msgstr "Título:"
+
+#: widget.php:10
+msgid "%s Buttons"
+msgstr "%s Botones"
+
+#: admin/templates/settings/privacy.php:78
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/userData.php:134
+msgid "Register For This Site!"
+msgstr "¡Regístrate en esta web!"
+
+#: providers/twitter/twitter.php:69
+msgid "Unlink account from <b>Twitter</b>"
+msgstr "Desvincula tu cuenta de <b>Twitter </b>"
+
+#: providers/twitter/twitter.php:68
+msgid "Link account with <b>Twitter</b>"
+msgstr "Vincula tu cuenta con <b>Twitter</b>"
+
+#: providers/twitter/twitter.php:67
+msgid "Continue with <b>Twitter</b>"
+msgstr "Continua a través de  <b>Twitter</b>"
+
+#: includes/compat-wp-login.php:98
+msgid "Powered by WordPress"
+msgstr "Funciona gracias a WordPress"
+
+#: includes/compat-wp-login.php:97
+msgid "https://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: admin/templates-provider/sync-data.php:50 includes/userData.php:185
+msgid "Register"
+msgstr "Regístrate"
+
+#: admin/templates/settings/login-form.php:22 includes/userData.php:134
+msgid "Registration Form"
+msgstr "Formulario de registro"
+
+#: providers/twitter/admin/fix-redirect-uri.php:12
+#: providers/twitter/admin/getting-started.php:22
+msgid "Add the following URL to the \"Callback URLs\" field: <b>%s</b>"
+msgstr "Añade la siguiente URL al campo \"Callback URL\": <b>%s</b>"
+
+#: providers/twitter/admin/getting-started.php:20
+msgid "Fill the App name, Application description fields. Then enter your site's URL to the Website URL field: <b>%s</b>"
+msgstr "Rellena los campos de nombre y descripción. A continuación, introduce la URL de tu sitio web en el en campo Sitio Web: <b>%s</b>"
+
+#: providers/google/google.php:105
+msgid "Unlink account from <b>Google</b>"
+msgstr "Desvincula tu cuenta con <b>Google</b>"
+
+#: providers/google/google.php:104
+msgid "Link account with <b>Google</b>"
+msgstr "Enlaza tu cuenta con <b>Google</b>"
+
+#: providers/google/google.php:103
+msgid "Continue with <b>Google</b>"
+msgstr "Continua con <b>Google</b>"
+
+#: providers/google/admin/settings.php:40
+msgid "Client Secret"
+msgstr "Secreto del cliente"
+
+#: providers/google/admin/settings.php:27
+msgid "Client ID"
+msgstr "ID de cliente"
+
+#: providers/google/admin/getting-started.php:32
+msgid "A modal should pop up with your credentials. If that doesn't happen, go to the Credentials in the left hand menu and select your app by clicking on its name and you'll be able to copy-paste the Client ID and Client Secret from there."
+msgstr "Debería aparecer una ventana emergente con tus credenciales. Si esto no ocurre, ve a «Credenciales» en el menú de la izquierda y selecciona su aplicación haciendo clic en su nombre y podrás copiar y pegar el ID de Cliente y el Secreto de Cliente desde allí."
+
+#: providers/google/admin/getting-started.php:31
+msgid "Click on the Create button"
+msgstr "Haz clic en el botón «Crear»"
+
+#: providers/google/admin/getting-started.php:29
+msgid "Name your application"
+msgstr "Nombra tu aplicación"
+
+#: providers/google/admin/getting-started.php:28
+msgid "Your application type should be \"Web application\""
+msgstr "El tipo de tu aplicación debe ser «Aplicación web»"
+
+#: providers/google/admin/getting-started.php:22
+msgid "Click on the \"Credentials\" in the left hand menu to create new API credentials"
+msgstr "Haz clic en «Credenciales» en el menú de la izquierda para crear nuevas credenciales de API"
+
+#: providers/google/admin/getting-started.php:21
+msgid "Once you have a project, you'll end up in the dashboard."
+msgstr "Una vez que tengas un proyecto, terminarás en el escritorio."
+
+#: providers/google/admin/getting-started.php:20
+msgid "Name your project and then click on the Create button again"
+msgstr "Pon un nombre a tu proyecto y luego haz clic otra vez en el botón «Crear»"
+
+#: providers/google/google.php:155 providers/facebook/facebook.php:133
+#: providers/twitter/twitter.php:93
+msgid "The %1$s entered did not appear to be a valid. Please enter a valid %2$s."
+msgstr "El %1$s introducido no parecía ser un valor válido. Por favor, introduce un %2$s válido."
+
+#: providers/facebook/facebook.php:79
+msgid "Unlink account from <b>Facebook</b>"
+msgstr "Desvincular cuenta de <b>Facebook</b>"
+
+#: providers/facebook/facebook.php:78
+msgid "Link account with <b>Facebook</b>"
+msgstr "Conectar cuenta con <b>Facebook</b>"
+
+#: providers/facebook/facebook.php:77
+msgid "Continue with <b>Facebook</b>"
+msgstr "Continuar con <b>Facebook</b>"
+
+#: admin/templates-provider/settings-other.php:16
+msgid "Username prefix on register"
+msgstr "Prefijo del nombre de usuario en el registro"
+
+#: admin/templates-provider/settings-other.php:11
+msgid "Other settings"
+msgstr "Outras opciones"
+
+#: providers/facebook/admin/settings.php:45
+msgid "App Secret"
+msgstr "Secreto de la aplicación"
+
+#: providers/google/admin/settings.php:35
+#: providers/facebook/admin/settings.php:39
+#: providers/twitter/admin/settings.php:33
+msgid "If you are not sure what is your %1$s, please head over to <a href=\"%2$s\">Getting Started</a>"
+msgstr "Si no estás seguro de cuál es tu %1$s, por favor dirígese a <a href=\"%2$s\">Primeros pasos</a>"
+
+#: providers/google/admin/settings.php:28
+#: providers/google/admin/settings.php:41
+#: providers/facebook/admin/settings.php:34
+#: providers/facebook/admin/settings.php:46
+#: providers/twitter/admin/settings.php:28
+msgid "Required"
+msgstr "Obligatorio"
+
+#: providers/facebook/admin/settings.php:33
+msgid "App ID"
+msgstr "ID de la aplicación"
+
+#: providers/google/admin/getting-started.php:36
+#: providers/facebook/admin/getting-started.php:41
+#: providers/twitter/admin/getting-started.php:32
+msgid "I am done setting up my %s"
+msgstr "Ya he terminado de configurar mis %s"
+
+#: providers/facebook/admin/getting-started.php:29
+msgid "Fill up the \"Privacy Policy URL\". Provide a publicly available and easily accessible privacy policy that explains what data you are collecting and how you will use that data."
+msgstr "Rellene la «URL de política de privacidad». Proporciona una política de privacidad disponible al público y de fácil acceso que explique qué datos estás recopilando y cómo los utilizarás."
+
+#: providers/facebook/admin/getting-started.php:28
+msgid "Enter your domain name to the App Domains"
+msgstr "Introduce su nombre de dominio en los dominios de la aplicación"
+
+#: providers/facebook/admin/getting-started.php:35
+msgid "Here you can see your \"APP ID\" and you can see your \"App secret\" if you click on the \"Show\" button. These will be needed in plugin's settings."
+msgstr "Aquí puedes ver tu «APP ID» y ver tu «App secret» si haces clic en el botón «Mostrar». Estos serán necesarios en la configuración del plugin."
+
+#: providers/facebook/admin/fix-redirect-uri.php:13
+#: providers/facebook/admin/getting-started.php:30
+#: providers/facebook/admin/getting-started.php:33
+msgid "Click on \"Save Changes\""
+msgstr "Haz clic en «Guardar cambios»"
+
+#: providers/facebook/admin/fix-redirect-uri.php:12
+#: providers/facebook/admin/getting-started.php:32
+msgid "Add the following URL to the \"Valid OAuth redirect URIs\" field: <b>%s</b>"
+msgstr "Añade la siguiente URL al campo «URIs válidas de redirecció de OAuth»: <b>%s</b>"
+
+#: providers/google/admin/fix-redirect-uri.php:13
+#: providers/twitter/admin/fix-redirect-uri.php:13
+msgid "Click on \"Save\""
+msgstr "Haz clic en «Guardar»"
+
+#: providers/facebook/admin/getting-started.php:26
+msgid "Click on blue \"Create App ID\" button"
+msgstr "Haz clic en el botón azul «Create ID de aplicación»"
+
+#: providers/facebook/admin/getting-started.php:24
+msgid "Click on the \"Add a New App\" button"
+msgstr "Haz clic en el botón «Añadir una nueva aplicación»"
+
+#: providers/google/admin/fix-redirect-uri.php:9
+#: providers/google/admin/getting-started.php:17
+#: providers/facebook/admin/fix-redirect-uri.php:9
+#: providers/facebook/admin/getting-started.php:23
+#: providers/twitter/admin/fix-redirect-uri.php:9
+msgid "Log in with your %s credentials if you are not logged in"
+msgstr "Inicia sesión con tus credenciales de %s si no has iniciado sesión"
+
+#: providers/google/admin/fix-redirect-uri.php:8
+#: providers/google/admin/getting-started.php:16
+#: providers/facebook/admin/fix-redirect-uri.php:8
+#: providers/facebook/admin/getting-started.php:22
+#: providers/twitter/admin/fix-redirect-uri.php:8
+#: providers/twitter/admin/getting-started.php:16
+msgid "Navigate to %s"
+msgstr "Ir a %s"
+
+#: providers/google/admin/getting-started.php:13
+#: providers/facebook/admin/getting-started.php:19
+#: providers/twitter/admin/getting-started.php:13
+msgctxt "App creation"
+msgid "Create %s"
+msgstr "Crear %s"
+
+#: providers/google/admin/getting-started.php:11
+#: providers/facebook/admin/getting-started.php:17
+#: providers/twitter/admin/getting-started.php:11
+msgid "To allow your visitors to log in with their %1$s account, first you must create a %1$s App. The following guide will help you through the %1$s App creation process. After you have created your %1$s App, head over to \"Settings\" and configure the given \"%2$s\" and \"%3$s\" according to your %1$s App."
+msgstr "Para permitir que tus visitantes se conecten con su cuenta de %1$s, primero debes crear una aplicación de %1$s. La siguiente guía te ayudará en el proceso de creación de la aplicación %1$s. Después de haber creado tu aplicación de %1$s, dirígete a «Ajustes» y configure el «%2$s» y «%3$s» de tu aplicación de %1$s."
+
+#: nextend-social-login.php:715 nextend-social-login.php:1080
+msgid "Social Login"
+msgstr "Inicio de sesión social"
+
+#: admin/interim.php:12 admin/interim.php:23
+msgid "You have logged in successfully."
+msgstr "Te has conectado con éxito."
+
+#: includes/provider-admin.php:231
+msgid "This provider is currently enabled, which means that users can register or login via their %s account."
+msgstr "Este proveedor está actualmente habilitado, lo que significa que los usuarios pueden registrarse o iniciar sesión a través de su cuenta de %s."
+
+#: includes/provider-admin.php:228
+msgid "This provider works fine, but you can test it again. If you don’t want to let users register or login with %s anymore you can disable it."
+msgstr "Este proveedor funciona bien, pero puedes probarlo de nuevo. Si no quieres que los usuarios se registren o se conecten con %s, puedes desactivarlo."
+
+#: includes/provider-admin.php:225
+msgid "This provider is currently disabled, which means that users can’t register or login via their %s account."
+msgstr "Este proveedor está actualmente deshabilitado, lo que significa que los usuarios no pueden registrarse o iniciar sesión a través de su cuenta de %s."
+
+#: includes/provider-admin.php:211
+msgid "Works Fine"
+msgstr "Funciona bien"
+
+#: includes/provider-admin.php:197
+msgid "Before you can start letting your users register with your app it needs to be tested. This test makes sure that no users will have troubles with the login and registration process. <br> If you see error message in the popup check the copied ID and secret or the app itself. Otherwise your settings are fine."
+msgstr "Antes de que puedas empezar a dejar que tus usuarios se registren con tu aplicación, es necesario probarla. Esta prueba asegura que ningún usuario tendrá problemas con el proceso de inicio de sesión y registro. <br> Si aparece un mensaje de error en la ventana emergente, comprueba el ID y el secreto copiados o la propia aplicación. De lo contrario, tu configuración está bien."
+
+#: includes/provider.php:882
+msgid "Authentication failed"
+msgstr "Identificación fallida"
+
+#: includes/provider.php:829 includes/provider.php:836
+msgid "The test was successful"
+msgstr "El test ha sido correcto"
+
+#: includes/provider.php:623
+msgid "Unlink successful."
+msgstr "Desvinculación correcta."
+
+#: includes/provider.php:608 includes/user.php:121
+msgid "Authentication error"
+msgstr "Error en la identificación"
+
+#: includes/user.php:69
+msgid "Your %1$s account is successfully linked with your account. Now you can sign in with %2$s easily."
+msgstr "Tu cuenta de %1$s ha sido vinculada con éxito a tu cuenta. Ahora puedes iniciar sesión con %2$s fácilmente."
+
+#: includes/provider.php:347 includes/provider.php:666
+#: includes/provider.php:671
+msgid "Authentication successful"
+msgstr "Identificación correcta"
+
+#: admin/templates-provider/usage.php:42
+msgid "Image url"
+msgstr "URL de la imagen"
+
+#: admin/templates-provider/usage.php:39
+msgid "Image button"
+msgstr "Botón"
+
+#: admin/templates-provider/usage.php:34
+msgid "Click here to login or register"
+msgstr "Haz clic aquí para acceder o registrarte"
+
+#: admin/templates-provider/usage.php:31
+msgid "Simple link"
+msgstr "Enlace sencillo"
+
+#: admin/templates-provider/usage.php:9
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/templates-provider/settings-pro.php:113
+msgid "Default roles for user who registered with this provider"
+msgstr "Roles por defecto para el usuario que se registra con este proveedor"
+
+#: admin/templates-provider/settings-pro.php:93
+msgid "Disable login for the selected roles"
+msgstr "Desactivar el inicio de sesión para los roles seleccionados"
+
+#: admin/templates-provider/settings-pro.php:88
+msgid "Automatic, based on email address"
+msgstr "Automático, basado en la dirección de correo electrónico"
+
+#: admin/templates-provider/settings-pro.php:77
+#: admin/templates-provider/settings-pro.php:81
+msgid "Automatically connect the existing account upon registration"
+msgstr "Conectar automáticamente la cuenta existente al registrarse"
+
+#: admin/templates-provider/settings-pro.php:53
+msgid "Never, generate automatically"
+msgstr "Nunca, generar automáticamente"
+
+#: admin/templates-provider/settings-pro.php:46
+#: admin/templates-provider/settings-pro.php:50
+msgid "Ask Username on registration"
+msgstr "Solicitar usuario durante el registro"
+
+#: admin/templates-provider/settings-pro.php:41
+#: admin/templates-provider/settings-pro.php:59
+#: admin/templates-provider/settings-pro.php:72
+msgid "Always"
+msgstr "Siempre"
+
+#: admin/templates-provider/settings-pro.php:38
+msgid "When email is not provided or empty"
+msgstr "Cuando el correo electrónico no se proporciona o está vacío"
+
+#: admin/templates-provider/settings-pro.php:35
+#: admin/templates-provider/settings-pro.php:69
+msgid "Never"
+msgstr "Nunca"
+
+#: admin/templates-provider/settings-pro.php:28
+#: admin/templates-provider/settings-pro.php:32
+msgid "Ask E-mail on registration"
+msgstr "Solicitar correo electrónico durante el registro"
+
+#: admin/templates-provider/menu.php:24
+msgid "Usage"
+msgstr "Uso"
+
+#: admin/templates-provider/menu.php:17
+msgid "Buttons"
+msgstr "Botones"
+
+#: admin/templates-provider/buttons.php:145
+msgid "Icon button"
+msgstr "Icono de botón"
+
+#: admin/templates-provider/buttons.php:137
+msgid "Use the %s in your custom button's code to make the label show up."
+msgstr "Use los %s en el código de tu botón personalizado para hacer que la etiqueta aparezca."
+
+#: admin/templates-provider/buttons.php:130
+#: admin/templates-provider/buttons.php:160
+msgid "Use custom button"
+msgstr "Usar botón personalizado"
+
+#: admin/templates-provider/buttons.php:114
+msgid "Default button"
+msgstr "Botón predeterminado"
+
+#: admin/templates-provider/buttons.php:103
+msgid "Unlink label"
+msgstr "Dtiqueta de desvinculación"
+
+#: admin/templates-provider/buttons.php:91
+msgid "Link label"
+msgstr "Etiqueta del enlace"
+
+#: admin/templates-provider/buttons.php:86
+#: admin/templates-provider/buttons.php:97
+#: admin/templates-provider/buttons.php:108
+#: admin/templates-provider/buttons.php:137
+#: admin/templates-provider/buttons.php:167
+#: admin/templates/settings/privacy.php:53
+msgid "Reset to default"
+msgstr "Restablecer valores por defecto"
+
+#: admin/templates-provider/buttons.php:81
+msgid "Login label"
+msgstr "Etiqueta de inicio de sesión"
+
+#: admin/templates/providers.php:138
+msgid "Order Saved"
+msgstr "Orden guardado"
+
+#: admin/templates/providers.php:137
+msgid "Saving failed"
+msgstr "Error al guardar"
+
+#: admin/templates/providers.php:136
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: admin/templates/providers.php:89 includes/provider-admin.php:255
+msgid "Disable"
+msgstr "Desactivar"
+
+#: admin/templates/providers.php:77 includes/provider-admin.php:247
+msgid "Enable"
+msgstr "Activar"
+
+#: admin/templates-provider/menu.php:13 admin/templates/providers.php:61
+#: providers/google/admin/getting-started.php:9
+#: providers/facebook/admin/getting-started.php:15
+#: providers/twitter/admin/getting-started.php:9
+msgid "Getting Started"
+msgstr "Cómo empezar"
+
+#: admin/templates/providers.php:54
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: admin/templates/providers.php:33
+msgid "Not Configured"
+msgstr "Sin configurar"
+
+#: admin/templates/providers.php:30
+msgid "Not Available"
+msgstr "No disponible"
+
+#: admin/templates/pro.php:26 admin/templates/pro.php:44
+msgid "To be able to use the Pro features, you need to install and activate the Nextend Social Connect Pro Addon."
+msgstr "Para poder utilizar las funciones Pro, debes instalar y activar el complemento Nextend Social Connect Pro."
+
+#: admin/templates/pro.php:25
+msgid "Pro Addon is not activated"
+msgstr "El complenento Pro no está activado"
+
+#: admin/templates/pro.php:16
+msgid "Authorize Pro Addon"
+msgstr "Complemento Authorize Pro"
+
+#: admin/templates/pro.php:14
+msgid "Buy Pro Addon"
+msgstr "Activar el complemento Pro"
+
+#: admin/templates/pro.php:10
+msgid "If you already have a license, you can Authorize your Pro Addon. Otherwise you can purchase it using the button below."
+msgstr "Si ya tienes una licencia, puedes autorizar tu complemento Pro. De lo contrario, puedes adquirirlo usando el botón de abajo."
+
+#: admin/templates/pro.php:9
+msgid "The features below are available in %s Pro Addon. Get it today and tweak the awesome settings."
+msgstr "Las siguientes características están disponibles en el complento %s Pro. Obtenlo hoy mismo y configura los increíbles ajustes."
+
+#: admin/templates/pro.php:8
+msgid "Get Pro Addon to unlock more features"
+msgstr "Obtén el complento Pro para desbloquear más funciones"
+
+#: admin/templates/pro-addon.php:135
+msgid "You installed and activated the Pro Addon. If you don’t want to use it anymore, you can deactivate using the button below."
+msgstr "Has instalado y activado el complemento Pro. Si ya no quieres utilizarlo, puedes desactivarlo usando el botón de abajo."
+
+#: admin/templates/pro-addon.php:133
+msgid "Pro Addon is installed and activated"
+msgstr "El complemento Pro está instalado y activado"
+
+#: admin/admin.php:717
+msgid "License key"
+msgstr "Clave de licencia"
+
+#: admin/admin.php:614
+msgid "To be able to use the Pro features, you need to activate Nextend Social Connect Pro Addon. You can do this by clicking on the Activate button below then select the related purchase."
+msgstr "Para poder utilizar las funciones Pro, debes activar el complemento Nextend Social Connect Pro. Puedes hacer esto haciendo clic en el botón «Activar» de abajo y luego seleccionar la compra relacionada."
+
+#: admin/templates/pro-addon.php:94
+msgid "Activating..."
+msgstr "Activando..."
+
+#: admin/templates/pro.php:47 admin/templates/pro-addon.php:60
+msgid "Install Pro Addon"
+msgstr "Instalar el complemento Pro"
+
+#: admin/templates/pro-addon.php:59
+msgid "Install %s now"
+msgstr "Instalar %s ahora"
+
+#: admin/templates/pro-addon.php:50
+msgid "To access the Pro features, you need to install and activate the Pro Addon."
+msgstr "Para acceder a las funciones Pro, debes instalar y activar el complemento Pro."
+
+#: admin/templates/pro.php:43 admin/templates/pro-addon.php:48
+msgid "Pro Addon is not installed"
+msgstr "El complenento Pro no está instalado"
+
+#: admin/templates/pro-addon.php:23
+msgid "Pro Addon is installed but not activated. To be able to use the Pro features, you need to activate it."
+msgstr "El complemento Pro está instalado pero no activado. Para poder utilizar las funciones Pro, debes activarlo."
+
+#: admin/templates/pro.php:34 admin/templates/pro-addon.php:22
+#: admin/templates/pro-addon.php:32
+msgid "Activate Pro Addon"
+msgstr "Activar el complemento Pro"
+
+#: admin/templates/pro-addon.php:14
+msgid "You don’t have sufficient permissions to install and activate plugins. Please contact your site’s administrator!"
+msgstr "No tienes suficientes permisos para instalar y activar plugins. ¡Ponte en contacto con el administrador de su sitio!"
+
+#: admin/templates/pro-addon.php:13
+msgid "Error"
+msgstr "Error"
+
+#: admin/templates/global-settings.php:28 admin/templates/menu.php:8
+msgid "Global Settings"
+msgstr "Ajustes globales"
+
+#: admin/templates/menu.php:6
+msgid "Providers"
+msgstr "Proveedores"
+
+#: admin/templates/header.php:23 admin/templates/menu.php:12
+msgid "Pro Addon"
+msgstr "Complemento Pro"
+
+#: admin/templates/header.php:17
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/templates/header.php:14
+msgid "Docs"
+msgstr "Documentación"
+
+#: admin/templates/providers.php:42 admin/templates/settings/general.php:56
+#: admin/templates/settings/general.php:196
+#: admin/templates/settings/general.php:211
+#: admin/templates/settings/general.php:229 includes/provider-admin.php:218
+msgid "Enabled"
+msgstr "Activado"
+
+#: admin/templates-provider/settings-pro.php:85
+#: admin/templates/providers.php:39 admin/templates/settings/general.php:53
+#: admin/templates/settings/general.php:193
+#: admin/templates/settings/general.php:208
+#: admin/templates/settings/general.php:226 includes/provider-admin.php:215
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: admin/templates/settings/general.php:48
+msgid "Debug mode"
+msgstr "Modo de depuración"
+
+#: admin/templates-provider/sync-data.php:104
+#: admin/templates-provider/buttons.php:176
+#: admin/templates-provider/settings-pro.php:140
+#: admin/templates/settings/userpro.php:167
+#: admin/templates/settings/woocommerce.php:254
+#: admin/templates/settings/login-form-pro.php:7
+#: admin/templates/settings/login-form-pro.php:153
+#: admin/templates/settings/buddypress.php:170
+#: admin/templates/settings/comment.php:73
+#: admin/templates/settings/ultimate-member.php:186
+#: admin/templates/settings/general-pro.php:7
+#: admin/templates/settings/general-pro.php:110
+#: admin/templates/settings/memberpress.php:171
+#: admin/templates/settings/privacy.php:108
+#: providers/google/admin/settings.php:49
+#: providers/facebook/admin/settings.php:55
+#: providers/twitter/admin/settings.php:48
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin/templates/settings/ultimate-member.php:158
+#: admin/templates/settings/memberpress.php:143
+msgid "Link buttons after account details"
+msgstr "Botones de enlace después de los detalles de la cuenta"
+
+#: admin/templates/settings/woocommerce.php:159
+msgid "No Connect button in billing form"
+msgstr "Sin botón de conexión en el formulario de facturación"
+
+#: admin/templates/settings/woocommerce.php:47
+#: admin/templates/settings/woocommerce.php:52
+#: admin/templates/settings/woocommerce.php:105
+#: admin/templates/settings/woocommerce.php:110
+#: admin/templates/settings/woocommerce.php:163
+#: admin/templates/settings/woocommerce.php:168
+#: admin/templates/settings/woocommerce.php:221
+#: admin/templates/settings/woocommerce.php:226
+#: admin/templates/settings/buddypress.php:27
+#: admin/templates/settings/buddypress.php:32
+#: admin/templates/settings/buddypress.php:37
+#: admin/templates/settings/ultimate-member.php:27
+#: admin/templates/settings/ultimate-member.php:93
+#: admin/templates/settings/ultimate-member.php:159
+#: admin/templates/settings/memberpress.php:78
+#: admin/templates/settings/memberpress.php:144
+msgid "Action:"
+msgstr "Acción:"
+
+#: admin/templates/settings/woocommerce.php:43
+msgid "No Connect button in login form"
+msgstr "Sin botón de conexión en el formulario de inicio de sesión"
+
+#: admin/templates/settings/comment.php:28
+msgid "Users must be registered and logged in to comment"
+msgstr "Los usuarios deben registrarse y acceder para comentar"
+
+#: admin/templates/settings/comment.php:28
+msgid "Discussion"
+msgstr "Comentarios"
+
+#: admin/templates/settings/comment.php:28
+msgid "You need to turn on the ' %1$s > %2$s > %3$s ' for this feature to work"
+msgstr "Necesitas activar el ' %1$s > %2$s > %3$s ' para que esta característica funcione"
+
+#: admin/templates/settings/comment.php:26
+msgid "Hide"
+msgstr "Ocultar"
+
+#: admin/templates/settings/comment.php:23
+#: admin/templates/settings/privacy.php:42
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/templates/settings/userpro.php:88
+#: admin/templates/settings/userpro.php:139
+#: admin/templates/settings/woocommerce.php:88
+#: admin/templates/settings/woocommerce.php:146
+#: admin/templates/settings/woocommerce.php:204
+#: admin/templates/settings/login-form-pro.php:76
+#: admin/templates/settings/login-form-pro.php:126
+#: admin/templates/settings/buddypress.php:142
+#: admin/templates/settings/ultimate-member.php:76
+#: admin/templates/settings/ultimate-member.php:142
+#: admin/templates/settings/memberpress.php:61
+#: admin/templates/settings/memberpress.php:127
+msgid "Above with separator"
+msgstr "Encima con separador"
+
+#: admin/templates/settings/userpro.php:82
+#: admin/templates/settings/userpro.php:133
+#: admin/templates/settings/woocommerce.php:82
+#: admin/templates/settings/woocommerce.php:140
+#: admin/templates/settings/woocommerce.php:198
+#: admin/templates/settings/login-form-pro.php:70
+#: admin/templates/settings/login-form-pro.php:120
+#: admin/templates/settings/buddypress.php:136
+#: admin/templates/settings/ultimate-member.php:70
+#: admin/templates/settings/ultimate-member.php:136
+#: admin/templates/settings/memberpress.php:55
+#: admin/templates/settings/memberpress.php:121
+msgid "Above"
+msgstr "Encima"
+
+#: admin/templates/settings/login-form-pro.php:64
+msgid "Below and floating"
+msgstr "Debajo y flotando"
+
+#: admin/templates/settings/userpro.php:76
+#: admin/templates/settings/userpro.php:127
+#: admin/templates/settings/woocommerce.php:76
+#: admin/templates/settings/woocommerce.php:134
+#: admin/templates/settings/woocommerce.php:192
+#: admin/templates/settings/login-form-pro.php:58
+#: admin/templates/settings/login-form-pro.php:114
+#: admin/templates/settings/buddypress.php:130
+#: admin/templates/settings/ultimate-member.php:64
+#: admin/templates/settings/ultimate-member.php:130
+#: admin/templates/settings/memberpress.php:49
+#: admin/templates/settings/memberpress.php:115
+msgid "Below with separator"
+msgstr "Debajo con separador"
+
+#: admin/templates/settings/userpro.php:70
+#: admin/templates/settings/userpro.php:121
+#: admin/templates/settings/woocommerce.php:70
+#: admin/templates/settings/woocommerce.php:128
+#: admin/templates/settings/woocommerce.php:186
+#: admin/templates/settings/login-form-pro.php:52
+#: admin/templates/settings/login-form-pro.php:108
+#: admin/templates/settings/buddypress.php:124
+#: admin/templates/settings/ultimate-member.php:58
+#: admin/templates/settings/ultimate-member.php:124
+#: admin/templates/settings/memberpress.php:43
+#: admin/templates/settings/memberpress.php:109
+msgid "Below"
+msgstr "Debajo"
+
+#: admin/templates/settings/userpro.php:64
+#: admin/templates/settings/woocommerce.php:58
+#: admin/templates/settings/login-form-pro.php:46
+#: admin/templates/settings/buddypress.php:112
+#: admin/templates/settings/ultimate-member.php:52
+#: admin/templates/settings/memberpress.php:37
+msgid "Login layout"
+msgstr "Disposición del inicio de sesión"
+
+#: admin/templates/settings/userpro.php:57
+#: admin/templates/settings/userpro.php:108
+#: admin/templates/settings/woocommerce.php:30
+#: admin/templates/settings/login-form-pro.php:39
+#: admin/templates/settings/login-form-pro.php:95
+#: admin/templates/settings/buddypress.php:56
+#: admin/templates/settings/buddypress.php:105
+#: admin/templates/settings/comment.php:45
+#: admin/templates/settings/ultimate-member.php:45
+#: admin/templates/settings/ultimate-member.php:111
+#: admin/templates/settings/memberpress.php:30
+#: admin/templates/settings/memberpress.php:96 widget.php:47
+msgid "Icon"
+msgstr "Icono"
+
+#: admin/templates-provider/settings-pro.php:121
+#: admin/templates/settings/userpro.php:51
+#: admin/templates/settings/userpro.php:102
+#: admin/templates/settings/woocommerce.php:24
+#: admin/templates/settings/woocommerce.php:64
+#: admin/templates/settings/woocommerce.php:122
+#: admin/templates/settings/woocommerce.php:180
+#: admin/templates/settings/login-form-pro.php:33
+#: admin/templates/settings/login-form-pro.php:89
+#: admin/templates/settings/buddypress.php:50
+#: admin/templates/settings/buddypress.php:99
+#: admin/templates/settings/buddypress.php:118
+#: admin/templates/settings/comment.php:39
+#: admin/templates/settings/ultimate-member.php:39
+#: admin/templates/settings/ultimate-member.php:105
+#: admin/templates/settings/memberpress.php:24
+#: admin/templates/settings/memberpress.php:90 widget.php:42
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/templates/settings/userpro.php:45
+#: admin/templates/settings/login-form-pro.php:27
+#: admin/templates/settings/ultimate-member.php:33
+#: admin/templates/settings/memberpress.php:18
+msgid "Login form button style"
+msgstr "Estilo de botón del formulario de inicio de sesión"
+
+#: admin/templates-provider/settings-pro.php:18
+#: admin/templates/settings/login-form-pro.php:10
+#: admin/templates/settings/general-pro.php:10
+msgid "PRO settings"
+msgstr "Ajustes PRO"
+
+#: admin/templates-provider/menu.php:15 admin/templates/providers.php:81
+#: admin/templates/providers.php:93 admin/templates/settings/comment.php:28
+#: admin/admin.php:427
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/admin.php:241
+msgid "The activation was successful"
+msgstr "La activación ha sido correcta"
+
+#: admin/admin.php:232 admin/admin.php:262
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: admin/admin.php:200
+msgid "%s needs json_decode function."
+msgstr "%s necesita la función json_decode."
+
+#: admin/admin.php:200
+msgid "Please contact your server administrator and ask for solution!"
+msgstr "¡Ponte en contacto con el administrador de tu servidor y solicítale una solución!"

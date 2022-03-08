@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'brandon-regular';
+					src: url('/wp-content/uploads/useanyfont/200409110524Brandon-Regular.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/200409110524Brandon-Regular.woff') format('woff');
+					font-display: auto;
+				}
+
+				.brandon-regular{font-family: 'brandon-regular' !important;}
+
+						body{
+					font-family: 'brandon-regular' !important;
+				}
+		
